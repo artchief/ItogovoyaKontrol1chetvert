@@ -1,0 +1,15 @@
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\bin\Debug\net6.0\ItogovoyaKontrol1chetvert.exe
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\bin\Debug\net6.0\ItogovoyaKontrol1chetvert.deps.json
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\bin\Debug\net6.0\ItogovoyaKontrol1chetvert.runtimeconfig.json
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\bin\Debug\net6.0\ItogovoyaKontrol1chetvert.dll
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\bin\Debug\net6.0\ItogovoyaKontrol1chetvert.pdb
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.csproj.AssemblyReference.cache
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.AssemblyInfoInputs.cache
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.AssemblyInfo.cs
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.csproj.CoreCompileInputs.cache
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.dll
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\refint\ItogovoyaKontrol1chetvert.dll
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.pdb
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ItogovoyaKontrol1chetvert.genruntimeconfig.cache
+D:\Тестер\Itogovaya\ItogovoyaKontrol1chetvert\obj\Debug\net6.0\ref\ItogovoyaKontrol1chetvert.dll
